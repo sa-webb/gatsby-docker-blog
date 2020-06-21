@@ -6,13 +6,13 @@ and
 
 ## Getting Started
 
-Locally
+### Locally
 
 `yarn install` or `npm install`
 
 `gatsby develop` or `gatsby develop -H 0.0.0.0` to view network address.
 
-Docker
+### Docker
 
 1. Clone the repository
 2. Execute `docker-compose up` within the root directory.
